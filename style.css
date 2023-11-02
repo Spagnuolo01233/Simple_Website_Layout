@@ -1,0 +1,109 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#head{
+    width: 100%;
+    height: 180px;
+    background-color:greenyellow;
+    color: black;
+    position: absolute;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    position: relative;
+}
+
+#head h1{
+    margin: 0;
+    font-size: 60px;
+    font-weight: bold;
+    text-shadow: 3px 3px 3px gold;
+}
+
+#NavBar{
+    position: relative;
+    width: 100%;
+    height: 60px;
+    background-color:black;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+}
+
+.Tasto{
+    font-size: 28px;
+    position: relative;
+    color: whitesmoke;
+    padding-left: 40px;
+    border-right: 3px solid gold;
+    border-radius: 35%;
+}
+
+.Tasto:hover{
+    background-color: gold;
+    color: black;
+    cursor:pointer;
+}
+
+#testoNav{
+    position: relative;
+    color: gold;
+    margin-right: 40px;
+}
+
+#MainBody{
+    margin: 0;
+    position: relative;
+}
+
+#container{
+    margin: 35px;
+    padding-top: 30px;
+    padding-left: 50px;
+    background-color:rgb(194, 231, 121);
+    box-shadow: black 3px 3px 3px;
+}
+
+.box-article{
+    max-width: 100%;
+    height: 350px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-content{
+    flex: 1;
+    font-size: 18px;
+    padding-right: 30px;
+    line-height: 1.4;
+}
+
+.right-image{
+    max-width: 40%;
+    max-height: 100%;
+    margin-bottom: 90px;
+}
+
+#footer{
+    background: linear-gradient(to top, white,greenyellow );
+    background-size: 100% 100%;
+    background-repeat: no-repeat;
+    display: flex;
+    max-width: 100%;
+    height: 250px;
+    padding: 40px;
+}
+
+.foot-content{
+    flex: 1;
+    flex-basis: 25%;
+    background-color: transparent;
+    text-align: center;
+    margin: auto;
+    padding: 0px 25px 0px 25px;
+    font-size: 18px;
+}
