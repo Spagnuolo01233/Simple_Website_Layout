@@ -1,3 +1,7 @@
+#link
+
+https://spagnuolo01233.github.io/Simple_Website_Layout/
+
 # Simple Website Layout
 
 This repository contains a straightforward and visually appealing website layout that can be easily customized and used for various web development projects. The layout is designed with a clean and responsive structure, making it suitable for a wide range of content and purposes.
@@ -31,5 +35,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 # Enjoy using this website layout for your projects!
 
 # Happy coding!
-#link
-https://spagnuolo01233.github.io/Simple_Website_Layout/
